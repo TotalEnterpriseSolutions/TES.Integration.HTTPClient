@@ -1,0 +1,7 @@
+c:\users\chris\OneDrive\Documents\Visual Studio 2017\Projects\TES.Integration.HTTPClient\TES.Integration.HTTPClient\bin\Debug\TES.Integration.HTTPClient.dll
+c:\users\chris\OneDrive\Documents\Visual Studio 2017\Projects\TES.Integration.HTTPClient\TES.Integration.HTTPClient\bin\Debug\TES.Integration.HTTPClient.pdb
+c:\users\chris\OneDrive\Documents\Visual Studio 2017\Projects\TES.Integration.HTTPClient\TES.Integration.HTTPClient\bin\Debug\Newtonsoft.Json.dll
+c:\users\chris\OneDrive\Documents\Visual Studio 2017\Projects\TES.Integration.HTTPClient\TES.Integration.HTTPClient\bin\Debug\Newtonsoft.Json.xml
+c:\users\chris\OneDrive\Documents\Visual Studio 2017\Projects\TES.Integration.HTTPClient\TES.Integration.HTTPClient\obj\Debug\TES.Integration.HTTPClient.csprojResolveAssemblyReference.cache
+c:\users\chris\OneDrive\Documents\Visual Studio 2017\Projects\TES.Integration.HTTPClient\TES.Integration.HTTPClient\obj\Debug\TES.Integration.HTTPClient.dll
+c:\users\chris\OneDrive\Documents\Visual Studio 2017\Projects\TES.Integration.HTTPClient\TES.Integration.HTTPClient\obj\Debug\TES.Integration.HTTPClient.pdb

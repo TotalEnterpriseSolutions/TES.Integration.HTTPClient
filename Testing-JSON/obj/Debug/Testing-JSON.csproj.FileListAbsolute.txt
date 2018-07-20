@@ -1,0 +1,8 @@
+C:\Users\chris\OneDrive\Documents\Visual Studio 2017\Projects\TES.Integration.HTTPClient\Testing-JSON\bin\Debug\Testing-JSON.exe.config
+C:\Users\chris\OneDrive\Documents\Visual Studio 2017\Projects\TES.Integration.HTTPClient\Testing-JSON\bin\Debug\Testing-JSON.exe
+C:\Users\chris\OneDrive\Documents\Visual Studio 2017\Projects\TES.Integration.HTTPClient\Testing-JSON\bin\Debug\Testing-JSON.pdb
+C:\Users\chris\OneDrive\Documents\Visual Studio 2017\Projects\TES.Integration.HTTPClient\Testing-JSON\bin\Debug\Newtonsoft.Json.dll
+C:\Users\chris\OneDrive\Documents\Visual Studio 2017\Projects\TES.Integration.HTTPClient\Testing-JSON\bin\Debug\Newtonsoft.Json.xml
+C:\Users\chris\OneDrive\Documents\Visual Studio 2017\Projects\TES.Integration.HTTPClient\Testing-JSON\obj\Debug\Testing-JSON.csprojResolveAssemblyReference.cache
+C:\Users\chris\OneDrive\Documents\Visual Studio 2017\Projects\TES.Integration.HTTPClient\Testing-JSON\obj\Debug\Testing-JSON.exe
+C:\Users\chris\OneDrive\Documents\Visual Studio 2017\Projects\TES.Integration.HTTPClient\Testing-JSON\obj\Debug\Testing-JSON.pdb
